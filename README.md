@@ -1,4 +1,4 @@
-# RL-PEFT-a-small-reasoner
+# Qwen 2.5 0.5B PEFT Finetuning for long reasoning  
 Finetuning (both full finetuning and PEFT (LoRA) finetuning) a small model (Qwen2.5-0.5B-Instruct) with GSM8K for long reasoning capabilities. 
 
 Original notebook (only full-finetuning code) by Will Brown ([X profile](https://x.com/willccbb)). 
