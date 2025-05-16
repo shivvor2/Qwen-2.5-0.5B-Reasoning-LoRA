@@ -9,10 +9,11 @@ PEFT finetuning code and (model) evaluation code by me.
 # progress
 We plan to perform full finetuning (as a baseline) and PEFT finetuning using LoRA adapters of Rank 8, 16 and 32 
 
-:white_check_mark: Full finetuning
-:clock9: Rank 8 LoRA adapter
-:white_check_mark: Rank 16 LoRA adapter
-:white_check_mark: Rank 32 LoRA adapter
+-Full finetuning :white_check_mark:
+- Rank 8 LoRA adapter :white_check_mark: 
+- Rank 16 LoRA adapter :white_check_mark: 
+- Rank 32 LoRA adapter :white_check_mark: 
 
-# Full Evaluation (TBD)
+# Full Evaluation
+![Results graph](results_graph.png)
 
